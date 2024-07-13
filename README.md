@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Karhl 
 #### I am a first-year Information Technology student.
-![I am a first-year Information Technology student.](https://scontent.fdvo5-1.fna.fbcdn.net/v/t39.30808-6/450230890_7804143959633820_2303127545399300943_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEVrFCB5j8t4IsqJoaThIdfnUtTRaNLuHydS1NFo0u4fCQTAiM4CG7pgYtAOWrepfQ3GzE2vnduCLvQpqlIXCxd&_nc_ohc=U3ZC0kARajwQ7kNvgFvvfIt&_nc_ht=scontent.fdvo5-1.fna&oh=00_AYBvWcSu1SS808OER0o_pUUCIJRtHK5FSfcNR_gdbzBRRA&oe=66905831)
+
 
 I am starting my journey in the tech industry by learning its basics and exploring various areas of interest. My goal is to build a strong foundation and acquire the skills necessary to succeed in this dynamic and ever-evolving field.
 
